@@ -1,1 +1,1 @@
-# Enotes_Spring_Boot_Project
+# SpringNote Hub
